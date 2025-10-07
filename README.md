@@ -19,7 +19,7 @@ This project demonstrates how IoT, automation, and web technologies can be integ
 ## 📄 Project Report
 👉 Click below to open the full report (PDF):
 
-📂 **[Open YOLOHome Smart Home Report](docs/REPORT%20MULTIDISCIPLINARYPROJECT%20YOLOHOMESMARTHOME.pdf)**
+📂 **[Open YOLOHome Smart Home Report](docs/REPORT MULTIDISCIPLINARYPROJECT YOLOHOMESMARTHOME.pdf)**
 
 
 ---
